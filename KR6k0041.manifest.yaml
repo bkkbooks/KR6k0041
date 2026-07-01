@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR6k0041/v1
+canonical_location: https://kanripo.org/bkk/KR6k0041/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 解脫戒經
+  identifiers:
+    alt_id:
+    - T24n1460
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T24/T24n1460.xml
+    old_id: T24n1460
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 聖
+  label: 聖
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit7
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit6
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0041_000.yaml, hash: 'sha256:ca8cd8b8db9f02e860995d7685b8aaf491263889273cc14777afe66afa22ef3e'}
+  - {seq: 1, filename: KR6k0041_001.yaml, hash: 'sha256:9f7604cfdb4f74a5020f5d1ab95fdf06579f40b2ca4c0b59d5cd46611e76b85e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0041_000.markers.yaml, hash: 'sha256:89e42da3317c5437ac1f56ebc1475b8caa8d371e77376f5fdf31f10b8d362f77'}
+  - {seq: 1, role: markers, filename: assets/KR6k0041_001.markers.yaml, hash: 'sha256:e64c983da34e9e97ff56a24492afea3bbd55f48898cb5e982792a023b3c4c69d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0041_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0041_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7938
+  label: 解脫戒經出迦葉毘部
+  type: juan
+  level: 1
+hash: sha256:14d037ae6a31285a09ccd644e1dd2ccf23f0ff8c03d6cde36683c3521b426b31
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
