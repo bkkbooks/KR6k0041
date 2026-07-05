@@ -42,11 +42,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0041_000.yaml, hash: 'sha256:ca8cd8b8db9f02e860995d7685b8aaf491263889273cc14777afe66afa22ef3e'}
-  - {seq: 1, filename: KR6k0041_001.yaml, hash: 'sha256:9f7604cfdb4f74a5020f5d1ab95fdf06579f40b2ca4c0b59d5cd46611e76b85e'}
+  - {seq: 0, filename: KR6k0041_000.yaml, hash: 'sha256:a0d477c1edd9608f578c72f7102431156e049c6700121a48913cb3738d979d37'}
+  - {seq: 1, filename: KR6k0041_001.yaml, hash: 'sha256:9b252c9c9ccbe8e14e0018395c38f511e567430aa76f311e64a1da463ba0b006'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0041_000.markers.yaml, hash: 'sha256:89e42da3317c5437ac1f56ebc1475b8caa8d371e77376f5fdf31f10b8d362f77'}
-  - {seq: 1, role: markers, filename: assets/KR6k0041_001.markers.yaml, hash: 'sha256:e64c983da34e9e97ff56a24492afea3bbd55f48898cb5e982792a023b3c4c69d'}
+  - {seq: 0, role: markers, filename: assets/KR6k0041_000.markers.yaml, hash: 'sha256:13892a21b37afaeb055edb20552685cd13fec9296d75f48031a1a26eb989f3cd'}
+  - {seq: 1, role: markers, filename: assets/KR6k0041_001.markers.yaml, hash: 'sha256:5b22cfbf7ff1c19d5c57addbbbda0539061e6ab086cb88af221f593b4535a474'}
 table_of_contents:
 - ref:
     seq: 0
@@ -68,7 +68,4 @@ table_of_contents:
   label: 解脫戒經出迦葉毘部
   type: juan
   level: 1
-hash: sha256:14d037ae6a31285a09ccd644e1dd2ccf23f0ff8c03d6cde36683c3521b426b31
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1ba723061bda4a7273785929cd3138e54b7b7f0ab78314778e333216d4250f5c
