@@ -42,17 +42,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0041_000.yaml, hash: 'sha256:5e56e7aaeb7a9ae75aec640a2ab9502d4f0cd34b222338201e43047727a934c5'}
+  - {seq: 0, filename: KR6k0041_000.yaml, hash: 'sha256:97cd52a67a45fc3def3d9f17c61c7c2c9bf44215cec6d80fcfc557ced098191d'}
   - {seq: 1, filename: KR6k0041_001.yaml, hash: 'sha256:f325df29182072037b7419ace5924e70750628a391f2eea7fa8d9583cc247006'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0041_000.markers.yaml, hash: 'sha256:994bd779a8d4165a63ef0c309bc1d9ddca88ebaf1dc884e18f354650ab62b3f3'}
+  - {seq: 0, role: markers, filename: assets/KR6k0041_000.markers.yaml, hash: 'sha256:20f3802cc57fe8e3e133dfd120570fdae5e84ae6ea3bd0895ba61a9d8514ace2'}
   - {seq: 1, role: markers, filename: assets/KR6k0041_001.markers.yaml, hash: 'sha256:da1abb2814f7b9c818d4506efdc4cfca27693cc3c676191737c78b0891873b53'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6k0041_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -68,7 +68,7 @@ table_of_contents:
   label: 解脫戒經出迦葉毘部
   type: juan
   level: 1
-hash: sha256:43f8f52c3c99d2b4a3ace01268a02390967872814bc0b6882823ec43524f1d83
+hash: sha256:870adf44a4c66ed4f32e5576d7668c1b0bc19e5f9517a947fb3519c1c2f0ac17
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
